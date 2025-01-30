@@ -1,0 +1,21 @@
+---
+title: "Main Analysis"
+author: "Bala Harri"
+format: html
+editor: visual
+---
+
+## 
+
+```         
+```
+
+```{r}
+# stroop_data <-read.delim("https://raw.githubusercontent.com/Lakens/Stroop/master/stroop.txt", header = TRUE)
+# write.table(stroop_data, file = "stroop.csv", quote = FALSE, row.names = FALSE, sep = ",")
+stroop_data <- read.csv("stroop.csv",header = TRUE)
+
+```
+
+```         
+```
